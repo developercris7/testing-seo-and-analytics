@@ -30,7 +30,8 @@ const Home = () => {
 
       </Helmet>
       <Navbar />
-      <h1>Welcome to the Home page of SEO Testing</h1>
+      <h1>Testing SEO home</h1>
+      <p>Welcome to the Home page of SEO Testing</p>
     </div>
   );
 };

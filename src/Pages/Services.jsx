@@ -32,7 +32,8 @@ const Services = () => {
         />
       </Helmet>
       <Navbar />
-      <h1>Welcome to the services page of SEO testing</h1>
+      <h1>Testing SEO about</h1>
+      <p>Welcome to the services page of SEO testing</p>
     </div>
   );
 };

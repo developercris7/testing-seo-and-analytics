@@ -32,7 +32,8 @@ const About = () => {
         />
       </Helmet>
       <Navbar />
-      <h1>Welcome to the about page of SEO testing</h1>
+      <h1>Testing SEO services</h1>
+      <p>Welcome to the about page of SEO testing</p>
     </div>
   );
 };
