@@ -4,7 +4,7 @@ import useMixpanelPageTrack from "../Hooks/useMixpanelPageTrack";
 import { Helmet } from "react-helmet";
 
 const Home = () => {
-  // useMixpanelPageTrack("Home");
+  useMixpanelPageTrack("Home");
 
   return (
     <div>
@@ -27,7 +27,7 @@ const Home = () => {
         />
         <meta property="og:url" content="https://testing-seo.netlify.app/" />
         <meta property="og:type" content="website" />
-        
+
       </Helmet>
       <Navbar />
       <h1>Welcome to the Home page of SEO Testing</h1>

@@ -3,7 +3,7 @@ import Navbar from "../Components/Navbar";
 import useMixpanelPageTrack from "../Hooks/useMixpanelPageTrack";
 import { Helmet } from "react-helmet";
 const Services = () => {
-  // useMixpanelPageTrack("Services");
+  useMixpanelPageTrack("Services");
 
   return (
     <div>

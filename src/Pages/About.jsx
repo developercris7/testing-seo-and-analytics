@@ -4,7 +4,7 @@ import useMixpanelPageTrack from "../Hooks/useMixpanelPageTrack";
 import { Helmet } from "react-helmet";
 
 const About = () => {
-  // useMixpanelPageTrack("About");
+  useMixpanelPageTrack("About");
   return (
     <div>
       <Helmet>

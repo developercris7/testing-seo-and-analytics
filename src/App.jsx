@@ -5,9 +5,9 @@ import About from "./Pages/About";
 import Services from "./Pages/Services";
 import mixpanel from "mixpanel-browser";
 
-// mixpanel.init("b9f881596001c68b00b977f8687dd844", {
-//   track_pages: true,
-// });
+mixpanel.init("7f635825526aca70fe750d1f0cc3366d", {
+  track_pages: true,
+});
 
 const App = () => {
   return (
